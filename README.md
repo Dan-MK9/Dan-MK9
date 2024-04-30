@@ -19,9 +19,4 @@
     <img align="center" alt="Danilo-Git" height="40em" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
     <img align="center"  alt="adobeillustrator logo" height="40em" src="https://skillicons.dev/icons?i=ai"/>
     <img align="center"  alt="adobephotoshop logo" height="40em" src="https://skillicons.dev/icons?i=ps"/>
-          
-                       
-
-          
-  
 </div>
