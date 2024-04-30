@@ -1,16 +1,15 @@
-### Hi there 👋
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&duration=2500&pause=10&color=F77D00&vCenter=true&repeat=false&random=false&width=435&lines=Ol%C3%A1+Mundo!%F0%9F%A4%96;Eu+sou+o+Danilo%2C+muito+prazer!%F0%9F%91%8B" alt="Typing SVG" /></a>
 
-<!--
-**Dan-MK9/Dan-MK9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+-  Programador em ascensão 🚀
 
-Here are some ideas to get you started:
+-  Atualmente estou realizando o curso técnico de Programação de Jogos Digitais, na escola SENAI de Informática. 🕹️
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br>
+
+<div>
+  <a href="https://github.com/Dan-MK9">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Dan-MK9&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dan-MK9&layout=compact&langs_count=7&theme=dark"/>
+</div>
+
+<div></div>
