@@ -12,4 +12,16 @@
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dan-MK9&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
-<div></div>
+<div style="display: inline_block"><br>
+    <img align="center" alt="Danilo-HTML" height="40em" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
+    <img align="center" alt="Danilo-CSS" height="40em" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
+    <img align="center" alt="Danilo-Figma" height="40em" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" />
+    <img align="center" alt="Danilo-Git" height="40em" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
+    <img align="center"  alt="adobeillustrator logo" height="40em" src="https://skillicons.dev/icons?i=ai"/>
+    <img align="center"  alt="adobephotoshop logo" height="40em" src="https://skillicons.dev/icons?i=ps"/>
+          
+                       
+
+          
+  
+</div>
