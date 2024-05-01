@@ -23,6 +23,7 @@
 
 <div>
   <h2>Pronto para decifrar seus códigos. Vamos transformar ideias em realidade digital juntos!🚀
-  📬Entre em contato através:</h2>
+  
+    📬Entre em contato através:</h2>
   <a href="www.linkedin.com/in/danilo-santos-lima-1399041b2" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
