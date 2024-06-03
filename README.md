@@ -14,7 +14,7 @@
 
 <div style="display: inline_block"><br>
     <img align="center" title="HTML5" height="40em" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"/>
-    <img align="center" title="CSS" height="40em" src="https://cdn.jsdelnet/gh/devicons/devicon@latest/icons/css3/css3-original.svg"/>
+    <img align="center" title="CSS" height="40em" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"/>
     <img align="center" title="JavaScript" height="40em" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"/>
     <img align="center" title="Figma" height="40em" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg"/>
     <img align="center" title="Git" height="40em" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"/>
