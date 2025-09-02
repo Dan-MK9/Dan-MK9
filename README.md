@@ -1,6 +1,6 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&duration=2500&pause=10&color=F77D00&vCenter=true&repeat=false&random=false&width=435&lines=Ol%C3%A1+Mundo!%F0%9F%A4%96;Eu+sou+o+Danilo%2C+muito+prazer!%F0%9F%91%8B" alt="Typing SVG" /></a>
 
--  Programador em ascensão 🚀
+- Desenvolvedor 💻
 
 -  Atualmente estou realizando o curso técnico de Programação de Jogos Digitais, na escola SENAI de Informática. 🕹️
 
