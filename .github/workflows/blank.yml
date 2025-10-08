@@ -1,17 +1,31 @@
-name: Generate 3D Profile
+name: Update Readme Stats
 
 on:
-  workflow_dispatch:
-  # Opcional: roda todo dia
   schedule:
-    - cron: '0 0 * * *'
+    - cron: '0 0 * * *' # Roda todo dia à meia-noite (UTC)
+  workflow_dispatch:
 
 jobs:
-  generate-profile-3d:
+  update-readme:
+    name: Atualizar Estatísticas do README
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
-      - uses: yoshihitof/github-profile-3d-contrib@v0.7.1
+      
+      # Usa a Action GitHub Readme Stats
+      - name: Rodar GitHub Readme Stats
+        uses: anuraghazra/github-readme-stats@master
         with:
-          USERNAME: Dan-MK9 # VERIFIQUE SE SEU USERNAME ESTÁ CORRETO
-          OUTPUT_PATH: profile-3d-contrib/profile-3d-contrib.svg
+          # TOKEN é essencial para autenticação. GITHUB_TOKEN é automático.
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          # Inclua aqui seu ID de usuário
+          username: Dan-MK9 
+          # Você pode adicionar mais opções aqui se quiser (temas, etc.)
+          # Ex: base_theme: 'radical', hide_border: true
+
+      - name: Commit e Push
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: 'docs: Atualização automática das stats do perfil'
+          # O caminho padrão do arquivo é o README.md. 
+          # Esta Action não cria pasta, ela injeta o SVG no README.
