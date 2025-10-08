@@ -1,31 +1,17 @@
 name: Generate 3D Profile
 
 on:
-  # Roda a cada 24 horas (ajuste o cron se preferir)
-  schedule:
-    - cron: '0 0 * * *' 
-  # Permite execução manual para testar
   workflow_dispatch:
+  # Opcional: roda todo dia
+  schedule:
+    - cron: '0 0 * * *'
 
 jobs:
-  build:
+  generate-profile-3d:
     runs-on: ubuntu-latest
-    name: generate-profile-3d
     steps:
       - uses: actions/checkout@v4
       - uses: yoshihitof/github-profile-3d-contrib@v0.7.1
         with:
-          # --- Configure aqui ---
-          USERNAME: Dan-MK9 # O SEU NOME DE USUÁRIO DO GITHUB
-          # --- Configuração de saída (o arquivo que será gerado) ---
+          USERNAME: Dan-MK9 # VERIFIQUE SE SEU USERNAME ESTÁ CORRETO
           OUTPUT_PATH: profile-3d-contrib/profile-3d-contrib.svg
-          # --- Permissão para a Action fazer o commit ---
-          MAX_REPOS: 200
-          COMMIT_PUSH: true 
-          # ----------------------
-
-      # Opcional: Se a Action não fizer o commit sozinha, use esta action
-      # - name: Commit e Push (Passo de backup)
-      #   uses: stefanzweifel/git-auto-commit-action@v5
-      #   with:
-      #     commit_message: 'docs: novo gráfico 3D de contribuições'
