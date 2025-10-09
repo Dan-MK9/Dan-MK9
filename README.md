@@ -23,7 +23,6 @@
   <a href="https://www.linkedin.com/in/danilo-santos-lima/">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo" />
   </a>
-  
   <a href="mailto:danilolim_@outlook.com">
     <img src="https://img.shields.io/static/v1?message=Outlook&logo=linkedin&label=&color=0E4D92&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="outlook logo" />
   </a>
