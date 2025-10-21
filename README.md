@@ -3,9 +3,10 @@
 ###
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&height=200&color=gradient&text=Seja%20Bem-Vindo%20&section=header&reversal=false&fontColor=F3F3F3&fontAlign=50&animation=twinkling&descAlign=60" alt="Seja Bem-Vindo!">
+  <img src="https://capsule-render.vercel.app/api?type=venom&height=200&color=gradient&text=Welcome%20to%20My%20Digital%20Lab.%20🧪&section=header&fontAlign=50&textBg=false&fontSize=50&fontColor=F3F3F3&animation=twinkling">
 </p>
-<h1 align="center">Hey 👋What's Up?</h1>
+
+<h1 align="center">Game/Software Developer💻</h1>
 
 ###
 
@@ -21,10 +22,10 @@
 
 <div align="center">
   <a href="https://www.linkedin.com/in/danilo-santos-lima/">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo" />
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="45" alt="linkedin logo" />
   </a>
   <a href="mailto:danilolim_@outlook.com">
-    <img src="https://img.shields.io/static/v1?message=Outlook&logo=linkedin&label=&color=0E4D92&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="outlook logo" />
+    <img src="https://img.shields.io/static/v1?message=Outlook&logo=linkedin&label=&color=0E4D92&logoColor=white&labelColor=&style=for-the-badge" height="45" alt="outlook logo" />
   </a>
 
 ###
